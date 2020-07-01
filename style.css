@@ -21,4 +21,6 @@ nav a {
    background: grey;
 }
 
-figcap
+figcaption {
+  color:red;
+}
